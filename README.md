@@ -16,3 +16,9 @@ Research and Implementation of Fall Detection System based on FPGA and Deep Lear
 比较重要的就134，5算进阶，尽量在中期报告前完成（6.14）  
 目前第九周，中期检查第十六周，尽快完成数据集的搭建4，第十第十一周完成13，第十二第十三周完成5，第十四周后做补缺与准备报告。  
 
+硬件开发计划：  
+完成网络每一步操作的verilog实现。  
+
+教程链接：https://github.com/WZMIAOMIAO/deep-learning-for-image-processing  
+
+原始论文链接：https://openaccess.thecvf.com/content_cvpr_2018/papers/Sandler_MobileNetV2_Inverted_Residuals_CVPR_2018_paper.pdf  
