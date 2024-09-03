@@ -21,4 +21,4 @@ Research and Implementation of Fall Detection System based on FPGA and Deep Lear
 
 教程链接：https://github.com/WZMIAOMIAO/deep-learning-for-image-processing  
 
-原始论文链接：https://openaccess.thecvf.com/content_cvpr_2018/papers/Sandler_MobileNetV2_Inverted_Residuals_CVPR_2018_paper.pdf  
+原始论文链接：https://arxiv.org/abs/1801.04381   
